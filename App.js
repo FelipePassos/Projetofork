@@ -4,8 +4,8 @@ import { createStackNavigator } from '@react-navigation/stack';
 
 //Importações para navegar telas (relação 01)
 
-import ScreenOne from '.src/ScreenOne.js';
-import ScreenLogin from '.src/ScreenLogin.js';
+import ScreenOne from './src/ScreenOne.js';
+import ScreenLogin from './src/ScreenLogin.js';
 
 const Stack = createStackNavigator();
 
